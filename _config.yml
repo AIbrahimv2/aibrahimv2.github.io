@@ -85,9 +85,9 @@ author:
   bio              : "Student at the George Washington University Columbian College of Arts & Sciences"
   location         : "Chantilly, VA"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "aibrahimv2@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
