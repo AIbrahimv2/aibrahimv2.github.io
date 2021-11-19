@@ -11,23 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### George Washington University, Washington D.C. | 2021-Present
+#### **B.S. Neuroscience and Data Science, Minor in Spanish**
+- Expected Graduation: May 2025
+
+### John Champe High School, Aldie, VA
+#### **Advanced Diploma**
+- GPA: 4.65 | Class Rank: 20 of 601
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### HIVE Lab | George Washington Unveristy, Washington, D.C. | Fall 2021 - Present
+#### **Research Assistant**
+- Responsible for performing administrative and research tasks under the discretion of Dr. Raja Mazumder. Tasks include assisting with experiments, coding, data entry, data cleaning and analysis, preparing research and drafts for articles, reports, and presentations. Currently working on automating the documentation process for the BioXpress database project with Readthedocs.org.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### ULTATEL, Herndon, VA | Spring 2020 - Fall 2020
+#### **Software Developer Intern**
+- Responsible for developing a software solution that automated the "Auto-Provisioning" process for Voice-Over-IP phones using Python as the main programming language. 
   
-Skills
+College Courses
 ======
 * Skill 1
 * Skill 2
