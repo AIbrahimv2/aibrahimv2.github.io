@@ -31,31 +31,43 @@ Work experience
   
 College Courses
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Introduction to Bioinformatics | PUBH 3201.10 | Fall 2021
 
-Publications
+### Organic Chemistry I | CHEM 2151.12 | Fall 2021
+
+### Organic Chemistry Laboratory I | CHEM 2153.22 | Fall 2021
+
+### Intro to Programming with Python | CSCI 1012.10
+
+### Introduction to Sociology | SOC 1001.12
+
+
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### - Presidential Scholar Award from The George Washington University | 2021
+### - Among Top 5 Percent of Academic Achievers in Loudoun Country, VA | 2021
+### - AP Scholar with Distinction Award | 2021
+### - Congress of Future Medical Leaders Award of Excellence | 2019
   
-Talks
+Computational Software
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+- Online Databases: NCBI (GenBank)
+- Evolutionary Genetic Analysis: MEGA
+- Python Libraries for Data Science/Machine Learning: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, and Plotly
+- Basic Programming in R, MATLAB, and JavaScript
+- Proficient in Microsoft Word, Excel, PowerPoint, and Internet
+- Competent with Unix based commands and scripts
+- Video editing using Adobe Premiere Pro
+
   
-Teaching
+Certifications
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- CareerSafe OSHA (Occupational Safety and Health Administration) Certified
+- Heartsaver First Aid Online Certified
+- American Heart Assocation Basic Life Support (CPR and AED) Certified
+- Revive! Overdose Reversal for Virginia Certified
   
-Service and leadership
+Volunteer
 ======
-* Currently signed in to 43 different slack teams
+- **Give Tutor**: tutoring elementary/middle school students a variety of subjects, including Math, Science, and English, at my local library. 
+- **Loudoun Volunteer Caregivers**: organized a social game night event for the underserved community. 
