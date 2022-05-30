@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 ### George Washington University, Washington D.C. | 2021-Present
-#### **B.S. Neuroscience and Data Science, Minor in Spanish**
+#### **B.S. Neuroscience and Data Science, Minor in Arabic**
 - Expected Graduation: May 2025
 
 ### John Champe High School, Aldie, VA
